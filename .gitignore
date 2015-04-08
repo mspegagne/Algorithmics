@@ -22,7 +22,7 @@
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
+#IDE Files
+*.cdp
+*.depend
+*.layout
