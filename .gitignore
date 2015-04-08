@@ -23,6 +23,6 @@
 *.lib
 
 #IDE Files
-*.cdp
+*.cbp
 *.depend
 *.layout
