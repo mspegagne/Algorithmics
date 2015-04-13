@@ -7,9 +7,9 @@
 //
 
 
-#include <iostream>
-#include <stdio.h>
-#include <cstdlib>
+# include <iostream>
+# include <stdio.h>
+# include <cstdlib>
 
 void Knapsack(int length, double* profit, double* weight, int capacity)
 {

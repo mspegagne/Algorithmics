@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 Mathieu Spegagne. All rights reserved.
 //
 
-#include <iostream>
-#include <stdio.h>
+# include <iostream>
+# include <stdio.h>
 
 using namespace std;
 

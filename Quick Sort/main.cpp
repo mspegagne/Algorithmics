@@ -7,10 +7,10 @@
 //
 
 
-#include <iostream>
-#include <stdio.h>
-#include <cstdlib>
-#include <time.h>
+# include <iostream>
+# include <stdio.h>
+# include <cstdlib>
+# include <time.h>
 
 
 int random(int first, int last)

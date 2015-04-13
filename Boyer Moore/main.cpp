@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Mathieu Spegagne. All rights reserved.
 //
 
-#include <iostream>
+# include <iostream>
 # include <limits.h>
 # include <string.h>
 # include <stdio.h>

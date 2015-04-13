@@ -6,9 +6,9 @@
 //  Copyright (c) 2015 Mathieu Spegagne. All rights reserved.
 //
 
-#include <iostream>
-#include <stdio.h>
-#include <cstdlib>
+# include <iostream>
+# include <stdio.h>
+# include <cstdlib>
 
 int max(int x, int y)
 {
