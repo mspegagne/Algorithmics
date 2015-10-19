@@ -1,0 +1,17 @@
+4
+
+ABCD EFGH even
+ABCI EFJK up
+ABIJ EFGH even
+
+ABCD EFGH down
+ABCD EIJK down
+ABCD IJKL even
+
+F G up 
+G K even 
+A I even 
+
+BEF AGI down 
+AEF BGI up 
+B C down 

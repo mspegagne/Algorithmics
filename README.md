@@ -8,5 +8,6 @@ Development of algorithms
 - Boyer Moore with bad character heuristic
 - Quadratic Assignment Problem (QAP)
 - UVA Problem 195 Anagram
+- UVA Problem 608 Counterfeit Dollar
 
 For each one, is available the cpp and .exe files.
